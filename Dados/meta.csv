@@ -1,0 +1,121 @@
+,Item,Arquivo,Tensão,Tipo,Condição,Variavel Sem Filtro,Variavel com Filtro,Classificador
+0,1.1.01,BM_190719_115248_13384.wav,Ligado,Isolador Bom,Seco,y1,yf1,1
+1,1.1.02,BM_190719_115356_13384.wav,Ligado,Isolador Bom,Seco,y2,yf2,1
+2,1.1.03,BM_190719_115445_13384.wav,Ligado,Isolador Bom,Seco,y3,yf3,1
+3,1.1.04,BM_190719_115605_13384.wav,Ligado,Isolador Bom,Seco,y4,yf4,1
+4,1.1.05,BM_190719_115751_13384.wav,Ligado,Isolador Bom,Seco,y5,yf5,1
+5,1.1.06,BM_190719_115844_13384.wav,Ligado,Isolador Bom,Seco,y6,yf6,1
+6,1.1.07,BM_190719_120032_13384.wav,Ligado,Isolador Bom,Seco,y7,yf7,1
+7,1.1.08,BM_190719_120608_13384.wav,Ligado,Isolador Bom,Seco,y8,yf8,1
+8,1.1.09,BM_190719_120716_13384.wav,Ligado,Isolador Bom,Seco,y9,yf9,1
+9,1.1.10,BM_190719_120829_13384.wav,Ligado,Isolador Bom,Seco,y10,yf10,1
+10,1.2.01,BM_190719_145842_13384.wav,Ligado,Isolador Bom,Caolim,y11,yf11,2
+11,1.2.02,BM_190719_150041_13384.wav,Ligado,Isolador Bom,Caolim,y12,yf12,2
+12,1.2.03,BM_190719_150256_13384.wav,Ligado,Isolador Bom,Caolim,y13,yf13,2
+13,1.2.04,BM_190719_150408_13384.wav,Ligado,Isolador Bom,Caolim,y14,yf14,2
+14,1.2.05,BM_190719_150550_13384.wav,Ligado,Isolador Bom,Caolim,y15,yf15,2
+15,1.2.06,BM_190719_150750_13384.wav,Ligado,Isolador Bom,Caolim,y16,yf16,2
+16,1.2.07,BM_190719_150950_13384.wav,Ligado,Isolador Bom,Caolim,y17,yf17,2
+17,1.2.08,BM_190719_151052_13384.wav,Ligado,Isolador Bom,Caolim,y18,yf18,2
+18,1.2.09,BM_190719_151140_13384.wav,Ligado,Isolador Bom,Caolim,y19,yf19,2
+19,1.2.10,BM_190719_151227_13384.wav,Ligado,Isolador Bom,Caolim,y20,yf20,2
+20,1.3.01,BM_190719_162658_13384.wav,Ligado,Isolador Bom,"Caolim - Condutivdade de 7,91mS",y21,yf21,3
+21,1.3.02,BM_190719_162744_13384.wav,Ligado,Isolador Bom,"Caolim - Condutivdade de 7,91mS",y22,yf22,3
+22,1.3.03,BM_190719_162835_13384.wav,Ligado,Isolador Bom,"Caolim - Condutivdade de 7,91mS",y23,yf23,3
+23,1.3.04,BM_190719_162922_13384.wav,Ligado,Isolador Bom,"Caolim - Condutivdade de 7,91mS",y24,yf24,3
+24,1.3.05,BM_190719_163022_13384.wav,Ligado,Isolador Bom,"Caolim - Condutivdade de 7,91mS",y25,yf25,3
+25,1.3.06,BM_190719_163110_13384.wav,Ligado,Isolador Bom,"Caolim - Condutivdade de 7,91mS",y26,yf26,3
+26,1.3.07,BM_190719_163155_13384.wav,Ligado,Isolador Bom,"Caolim - Condutivdade de 7,91mS",y27,yf27,3
+27,1.3.08,BM_190719_163245_13384.wav,Ligado,Isolador Bom,"Caolim - Condutivdade de 7,91mS",y28,yf28,3
+28,1.3.09,BM_190719_163338_13384.wav,Ligado,Isolador Bom,"Caolim - Condutivdade de 7,91mS",y29,yf29,3
+29,1.3.10,BM_190719_163432_13384.wav,Ligado,Isolador Bom,"Caolim - Condutivdade de 7,91mS",y30,yf30,3
+30,1.4.01,BM_190719_142232_13384.wav,Ligado,Isolador Perfurado,Seco,y31,yf31,4
+31,1.4.02,BM_190719_142319_13384.wav,Ligado,Isolador Perfurado,Seco,y32,yf32,4
+32,1.4.03,BM_190719_142410_13384.wav,Ligado,Isolador Perfurado,Seco,y33,yf33,4
+33,1.4.04,BM_190719_142644_13384.wav,Ligado,Isolador Perfurado,Seco,y34,yf34,4
+34,1.4.05,BM_190719_142838_13384.wav,Ligado,Isolador Perfurado,Seco,y35,yf35,4
+35,1.4.06,BM_190719_142942_13384.wav,Ligado,Isolador Perfurado,Seco,y36,yf36,4
+36,1.4.07,BM_190719_143109_13384.wav,Ligado,Isolador Perfurado,Seco,y37,yf37,4
+37,1.4.08,BM_190719_143331_13384.wav,Ligado,Isolador Perfurado,Seco,y38,yf38,4
+38,1.4.09,BM_190719_143434_13384.wav,Ligado,Isolador Perfurado,Seco,y39,yf39,4
+39,1.4.10,BM_190719_143633_13384.wav,Ligado,Isolador Perfurado,Seco,y40,yf40,4
+40,1.5.01,BM_190719_121256_13384.wav,Ligado,Isolador Perfurado,Umido,y41,yf41,5
+41,1.5.02,BM_190719_121430_13384.wav,Ligado,Isolador Perfurado,Umido,y42,yf42,5
+42,1.5.03,BM_190719_121631_13384.wav,Ligado,Isolador Perfurado,Umido,y43,yf43,5
+43,1.5.04,BM_190719_121922_13384.wav,Ligado,Isolador Perfurado,Umido,y44,yf44,5
+44,1.5.05,BM_190719_122102_13384.wav,Ligado,Isolador Perfurado,Umido,y45,yf45,5
+45,1.5.06,BM_190719_131940_13384.wav,Ligado,Isolador Perfurado,Umido,y46,yf46,5
+46,1.5.07,BM_190719_132312_13384.wav,Ligado,Isolador Perfurado,Umido,y47,yf47,5
+47,1.5.08,BM_190719_132420_13384.wav,Ligado,Isolador Perfurado,Umido,y48,yf48,5
+48,1.5.09,BM_190719_132538_13384.wav,Ligado,Isolador Perfurado,Umido,y49,yf49,5
+49,1.5.10,BM_190719_132630_13384.wav,Ligado,Isolador Perfurado,Umido,y50,yf50,5
+50,1.6.01,BM_190719_164145_13384.wav,Ligado,Isolador Perfurado,Caolim,y51,yf51,6
+51,1.6.02,BM_190719_164246_13384.wav,Ligado,Isolador Perfurado,Caolim,y52,yf52,6
+52,1.6.03,BM_190719_164340_13384.wav,Ligado,Isolador Perfurado,Caolim,y53,yf53,6
+53,1.6.04,BM_190719_164426_13384.wav,Ligado,Isolador Perfurado,Caolim,y54,yf54,6
+54,1.6.05,BM_190719_164516_13384.wav,Ligado,Isolador Perfurado,Caolim,y55,yf55,6
+55,1.6.06,BM_190719_164618_13384.wav,Ligado,Isolador Perfurado,Caolim,y56,yf56,6
+56,1.6.07,BM_190719_164717_13384.wav,Ligado,Isolador Perfurado,Caolim,y57,yf57,6
+57,1.6.08,BM_190719_164806_13384.wav,Ligado,Isolador Perfurado,Caolim,y58,yf58,6
+58,1.6.09,BM_190719_164859_13384.wav,Ligado,Isolador Perfurado,Caolim,y59,yf59,6
+59,1.6.10,BM_190719_164955_13384.wav,Ligado,Isolador Perfurado,Caolim,y60,yf60,6
+60,2.1.01,BM_190719_115210_13384.wav,Desligado,Isolador Bom,Seco,y61,yf61,7
+61,2.1.02,BM_190719_115313_13384.wav,Desligado,Isolador Bom,Seco,y62,yf62,7
+62,2.1.03,BM_190719_115417_13384.wav,Desligado,Isolador Bom,Seco,y63,yf63,7
+63,2.1.04,BM_190719_115504_13384.wav,Desligado,Isolador Bom,Seco,y64,yf64,7
+64,2.1.05,BM_190719_115721_13384.wav,Desligado,Isolador Bom,Seco,y65,yf65,7
+65,2.1.06,BM_190719_115812_13384.wav,Desligado,Isolador Bom,Seco,y66,yf66,7
+66,2.1.07,BM_190719_115930_13384.wav,Desligado,Isolador Bom,Seco,y67,yf67,7
+67,2.1.08,BM_190719_120055_13384.wav,Desligado,Isolador Bom,Seco,y68,yf68,7
+68,2.1.09,BM_190719_120643_13384.wav,Desligado,Isolador Bom,Seco,y69,yf69,7
+69,2.1.10,BM_190719_120757_13384.wav,Desligado,Isolador Bom,Seco,y70,yf70,7
+70,2.2.01,BM_190719_145715_13384.wav,Desligado,Isolador Bom,Caolim,y71,yf71,7
+71,2.2.02,BM_190719_145941_13384.wav,Desligado,Isolador Bom,Caolim,y72,yf72,7
+72,2.2.03,BM_190719_150135_13384.wav,Desligado,Isolador Bom,Caolim,y73,yf73,7
+73,2.2.04,BM_190719_150324_13384.wav,Desligado,Isolador Bom,Caolim,y74,yf74,7
+74,2.2.05,BM_190719_150448_13384.wav,Desligado,Isolador Bom,Caolim,y75,yf75,7
+75,2.2.06,BM_190719_150626_13384.wav,Desligado,Isolador Bom,Caolim,y76,yf76,7
+76,2.2.07,BM_190719_150908_13384.wav,Desligado,Isolador Bom,Caolim,y77,yf77,7
+77,2.2.08,BM_190719_151007_13384.wav,Desligado,Isolador Bom,Caolim,y78,yf78,7
+78,2.2.09,BM_190719_151112_13384.wav,Desligado,Isolador Bom,Caolim,y79,yf79,7
+79,2.2.10,BM_190719_151158_13384.wav,Desligado,Isolador Bom,Caolim,y80,yf80,7
+80,2.3.01,BM_190719_162443_13384.wav,Desligado,Isolador Bom,"Caolim - Condutivdade de 7,91mS",y81,yf81,7
+81,2.3.02,BM_190719_162718_13384.wav,Desligado,Isolador Bom,"Caolim - Condutivdade de 7,91mS",y82,yf82,7
+82,2.3.03,BM_190719_162808_13384.wav,Desligado,Isolador Bom,"Caolim - Condutivdade de 7,91mS",y83,yf83,7
+83,2.3.04,BM_190719_162854_13384.wav,Desligado,Isolador Bom,"Caolim - Condutivdade de 7,91mS",y84,yf84,7
+84,2.3.05,BM_190719_162940_13384.wav,Desligado,Isolador Bom,"Caolim - Condutivdade de 7,91mS",y85,yf85,7
+85,2.3.06,BM_190719_163043_13384.wav,Desligado,Isolador Bom,"Caolim - Condutivdade de 7,91mS",y86,yf86,7
+86,2.3.07,BM_190719_163130_13384.wav,Desligado,Isolador Bom,"Caolim - Condutivdade de 7,91mS",y87,yf87,7
+87,2.3.08,BM_190719_163214_13384.wav,Desligado,Isolador Bom,"Caolim - Condutivdade de 7,91mS",y88,yf88,7
+88,2.3.09,BM_190719_163307_13384.wav,Desligado,Isolador Bom,"Caolim - Condutivdade de 7,91mS",y89,yf89,7
+89,2.3.10,BM_190719_163404_13384.wav,Desligado,Isolador Bom,"Caolim - Condutivdade de 7,91mS",y90,yf90,7
+90,2.4.01,BM_190719_141718_13384.wav,Desligado,Isolador Pergurado,Seco,y91,yf91,7
+91,2.4.02,BM_190719_142253_13384.wav,Desligado,Isolador Pergurado,Seco,y92,yf92,7
+92,2.4.03,BM_190719_142340_13384.wav,Desligado,Isolador Pergurado,Seco,y93,yf93,7
+93,2.4.04,BM_190719_142432_13384.wav,Desligado,Isolador Pergurado,Seco,y94,yf94,7
+94,2.4.05,BM_190719_142705_13384.wav,Desligado,Isolador Pergurado,Seco,y95,yf95,7
+95,2.4.06,BM_190719_142859_13384.wav,Desligado,Isolador Pergurado,Seco,y96,yf96,7
+96,2.4.07,BM_190719_143002_13384.wav,Desligado,Isolador Pergurado,Seco,y97,yf97,7
+97,2.4.08,BM_190719_143128_13384.wav,Desligado,Isolador Pergurado,Seco,y98,yf98,7
+98,2.4.09,BM_190719_143352_13384.wav,Desligado,Isolador Pergurado,Seco,y99,yf99,7
+99,2.4.10,BM_190719_143453_13384.wav,Desligado,Isolador Pergurado,Seco,y100,yf100,7
+100,2.5.01,BM_190719_121209_13384.wav,Desligado,Isolador Pergurado,Umido,y101,yf101,7
+101,2.5.02,BM_190719_121324_13384.wav,Desligado,Isolador Pergurado,Umido,y102,yf102,7
+102,2.5.03,BM_190719_121515_13384.wav,Desligado,Isolador Pergurado,Umido,y103,yf103,7
+103,2.5.04,BM_190719_121730_13384.wav,Desligado,Isolador Pergurado,Umido,y104,yf104,7
+104,2.5.05,BM_190719_122012_13384.wav,Desligado,Isolador Pergurado,Umido,y105,yf105,7
+105,2.5.06,BM_190719_122219_13384.wav,Desligado,Isolador Pergurado,Umido,y106,yf106,7
+106,2.5.07,BM_190719_132208_13384.wav,Desligado,Isolador Pergurado,Umido,y107,yf107,7
+107,2.5.08,BM_190719_132332_13384.wav,Desligado,Isolador Pergurado,Umido,y108,yf108,7
+108,2.5.09,BM_190719_132507_13384.wav,Desligado,Isolador Pergurado,Umido,y109,yf109,7
+109,2.5.10,BM_190719_132558_13384.wav,Desligado,Isolador Pergurado,Umido,y110,yf110,7
+110,2.6.01,BM_190719_164005_13384.wav,Desligado,Isolador Pergurado,Caolim,y111,yf111,7
+111,2.6.02,BM_190719_164210_13384.wav,Desligado,Isolador Pergurado,Caolim,y112,yf112,7
+112,2.6.03,BM_190719_164306_13384.wav,Desligado,Isolador Pergurado,Caolim,y113,yf113,7
+113,2.6.04,BM_190719_164400_13384.wav,Desligado,Isolador Pergurado,Caolim,y114,yf114,7
+114,2.6.05,BM_190719_164448_13384.wav,Desligado,Isolador Pergurado,Caolim,y115,yf115,7
+115,2.6.06,BM_190719_164550_13384.wav,Desligado,Isolador Pergurado,Caolim,y116,yf116,7
+116,2.6.07,BM_190719_164643_13384.wav,Desligado,Isolador Pergurado,Caolim,y117,yf117,7
+117,2.6.08,BM_190719_164739_13384.wav,Desligado,Isolador Pergurado,Caolim,y118,yf118,7
+118,2.6.09,BM_190719_164828_13384.wav,Desligado,Isolador Pergurado,Caolim,y119,yf119,7
+119,2.6.10,BM_190719_164921_13384.wav,Desligado,Isolador Pergurado,Caolim,y120,yf120,7
